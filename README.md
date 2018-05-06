@@ -1,0 +1,1 @@
+# dining-splash-page
